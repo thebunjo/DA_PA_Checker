@@ -4,7 +4,7 @@ require 'httparty'
 class MainWindow
   def initialize
     @headers = {
-      'X-RapidAPI-Key': '171c0ab42bmshaf7648e626281e9p1069f5jsne11dfc4cdf9f',
+      'X-RapidAPI-Key': 'your key',
       'X-RapidAPI-Host': 'domain-da-pa-check.p.rapidapi.com'
     }
 
